@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to the Auxillio 23 Documentation
 
-You can use the [editor on GitHub](https://github.com/auxillio-23/auxillio-23/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Auxillio-23 is a group of developers working on open source projects in order to make the world a better place. We as Auxillio also can get your product funded.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### For Developers
 
-### Markdown
+What you as a developer, create with us, is completly and tottally up to you and you have complete creative freedom towards what ever you may chooes to do.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We at Auxillio will get your project funded free of cost. To get started you can start working on any of our repositories by forking them or email us at auxillio.info@gmail.com for an invite to create your own repository.
 
-```markdown
-Syntax highlighted code block
+Furthermore you can submit your own repositry to our email for a review after which you can be added as a member.
 
-# Header 1
-## Header 2
-### Header 3
+### For Investors
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/auxillio-23/auxillio-23/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Auxillio 23 provides you with a platform to find Ideas and projects at the bleeding edge of technology which you can not only find but also invest in, by contacting us at auxillio.info@gmail.com .
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can contact us at auxillio.info@gmail.com
