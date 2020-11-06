@@ -17,3 +17,5 @@ Auxillio 23 provides you with a platform to find Ideas and projects at the bleed
 ### Support or Contact
 
 You can contact us at auxillio.info@gmail.com
+
+Check out our [projects](https://github.com/auxillio-23) or [contact support](https://github.com/contact) and we’ll help you sort it out.
